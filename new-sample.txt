@@ -1,0 +1,3 @@
+This is a sample test file
+i've created using:
+'cat >> new_file.txt << EOF'
